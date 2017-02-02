@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee44d6fa-2135-4860-a1c1-80f21173c9dd" name="mg201" url="http://mag201.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,140 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Viewga">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MessDetectorValidationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.1.0" last-modified="1478631087000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1482490779345" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.telecontact.ru:8443/browse/AMLOUTINS-1145">
+      <option name="apiType" />
+      <commitMessageFormat>j:{id} {summary}</commitMessageFormat>
+      <password>dffedfc4dfc0dfc4dfc0dfc1dfc7dfd8dfc0dfc6dfc1dfd0df9bdfdcdfdedfd3dfd0</password>
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>a.mikitevich</username>
+    </JIRA>
+    <JIRA shared="false" url="https://jira.telecontact.ru:8443">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>j:{id} {summary}</commitMessageFormat>
+      <password>dffedfc4dfc0dfc4dfc0dfc1dfc7dfd8dfc0dfc6dfc1dfd0df9bdfdcdfdedfd3dfd0</password>
+      <option name="jiraVersion" value="5.1" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>a.mikitevich</username>
+    </JIRA>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://ws01:81/svn/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://ws01:81/svn/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://ws01:81/svn/Templates/outbound/trunk">
+          <value>
+            <set>
+              <option value="Z:\htdocs\outbound" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="sql" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Trim space" HIGHLIGHT_MODE="BY_WORD" />
+</application>
