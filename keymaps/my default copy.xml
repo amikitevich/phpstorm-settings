@@ -4,11 +4,6 @@
   <action id="Images.ShowThumbnails" />
   <action id="MethodDown" />
   <action id="MethodUp" />
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
-    <keyboard-shortcut first-keystroke="meta y" />
-    <mouse-shortcut keystroke="Force touch" />
-  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
