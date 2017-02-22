@@ -2,11 +2,28 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" timestamp="1487769981261">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart-page.component.html" timestamp="1487770001550">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
       <register name=":" type="4">
-        <text>quit</text>
+        <text>n</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
     </registers>
     <search>
@@ -14,10 +31,18 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>quit</entry>
         <entry>insert</entry>
+        <entry>i</entry>
+        <entry>insertmode</entry>
+        <entry>im</entry>
+        <entry>n</entry>
+        <entry>p</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
