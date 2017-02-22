@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart-page.component.scss" timestamp="1487770963348">
+        <mark key="[" line="121" column="6" />
+        <mark key="]" line="118" column="6" />
+        <mark key="." line="118" column="6" />
+        <mark key="^" line="118" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" timestamp="1487769981261">
         <mark key="'" line="0" column="0" />
       </file>
@@ -17,13 +23,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
@@ -44,7 +50,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
