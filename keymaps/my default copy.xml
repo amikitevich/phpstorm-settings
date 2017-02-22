@@ -2,6 +2,7 @@
   <action id="EditorLookupUp" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceVariable" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="QuickImplementations">

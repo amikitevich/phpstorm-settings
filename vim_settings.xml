@@ -1,35 +1,59 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.html" timestamp="1487773973830" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart-page.component.scss" timestamp="1487770963348">
         <mark key="[" line="121" column="6" />
         <mark key="]" line="118" column="6" />
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" timestamp="1487769981261">
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" timestamp="1487774385024">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart-page.component.html" timestamp="1487770001550">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="9" />
-        <mark key="." line="46" column="9" />
+      <file name="/JavaScript Console" timestamp="1487774757601">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/task-list-item/task-list-item.component.ts" timestamp="1487774747433">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart-page.component.html" timestamp="1487772825087">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.html" timestamp="1487774845780" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="1" type="2">
+        <text encoding="base64">fSkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgIDwvYT4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPgogICAgICAgIDx0YXNrLWxpc3QtaXRlbSBbc2hvd01vZGVdPSJzaG93TW9kZSQgfCBhc3luYyIgW3Rhc2tdPSJ0YXNrIj48L3Rhc2stbGlzdC1pdGVtPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
     </registers>
     <search>
@@ -41,18 +65,72 @@
       <history-cmd>
         <entry>quit</entry>
         <entry>insert</entry>
-        <entry>i</entry>
         <entry>insertmode</entry>
         <entry>im</entry>
         <entry>n</entry>
         <entry>p</entry>
+        <entry>c</entry>
+        <entry>C</entry>
+        <entry>i</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
