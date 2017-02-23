@@ -1,23 +1,23 @@
 <templateSet group="JavaScript">
-  <template name="cl" value="console.log($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cl;" value="console.log($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="cl;" value="console.log($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cw;" value="console.warn($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="cw;" value="console.warn($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cw" value="console.warn($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="cw" value="console.warn($END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />

@@ -24,6 +24,11 @@
       <file name="/JavaScript Console" timestamp="1487774757601">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" timestamp="1487846057483">
+        <mark key="[" line="88" column="85" />
+        <mark key="]" line="84" column="43" />
+        <mark key="." line="84" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/task-list-item/task-list-item.component.ts" timestamp="1487774747433">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -44,8 +49,8 @@
       <register name="1" type="2">
         <text encoding="base64">fSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CiAgICAgIDwvYT4K</text>
@@ -57,7 +62,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
     </registers>
     <search>
