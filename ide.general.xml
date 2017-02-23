@@ -9,5 +9,8 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="search.everywhere.files" value="false" />
     <entry key="search.everywhere.symbols" value="false" />
+    <entry key="search.everywhere.configurations" value="false" />
+    <entry key="search.everywhere.actions" value="false" />
+    <entry key="search.everywhere.toolwindows" value="false" />
   </component>
 </application>
