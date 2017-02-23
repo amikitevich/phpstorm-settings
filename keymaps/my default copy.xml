@@ -1,4 +1,5 @@
 <keymap version="1" name="my default copy" parent="Mac OS X 10.5+">
+  <action id="EditorCutLineEnd" />
   <action id="EditorLookupUp" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
