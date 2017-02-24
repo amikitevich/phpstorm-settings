@@ -35,11 +35,12 @@
         <mark key="]" line="94" column="29" />
         <mark key="." line="94" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487926534563">
-        <mark key="[" line="85" column="55" />
-        <mark key="]" line="85" column="55" />
-        <mark key="^" line="68" column="28" />
-        <mark key="." line="85" column="55" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487928401667">
+        <mark key="'" line="70" column="30" />
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="65" column="31" />
+        <mark key="." line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487862699270">
         <mark key="'" line="27" column="77" />
@@ -76,16 +77,72 @@
       <jump line="61" column="23" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/package.json" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" />
       <jump line="197" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.ts" />
+      <jump line="70" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>x</text>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>x</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
@@ -110,9 +167,6 @@
       </register>
       <register name=":" type="4">
         <text>q!</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
       </register>
     </registers>
     <search>
