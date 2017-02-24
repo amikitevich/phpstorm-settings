@@ -5,10 +5,10 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" timestamp="1487945612494">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="107" column="78" />
-        <mark key="]" line="107" column="7" />
-        <mark key="." line="107" column="7" />
-        <mark key="^" line="107" column="7" />
+        <mark key="[" line="106" column="78" />
+        <mark key="]" line="106" column="7" />
+        <mark key="." line="106" column="7" />
+        <mark key="^" line="106" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/board-details/board-detail-loader.ts" timestamp="1487953549271">
         <mark key="[" line="27" column="38" />
@@ -53,7 +53,7 @@
         <mark key="]" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487954110946">
+      <file name="/Dummy.txt" timestamp="1487954288000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/wrapper.ts" timestamp="1487948223590">
