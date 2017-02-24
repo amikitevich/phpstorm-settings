@@ -13,6 +13,11 @@
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/board-details/board-detail-loader.ts" timestamp="1487953549271">
         <mark key="[" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/dragula/board-dragula.service.ts" timestamp="1487969617024">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487958899957" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/pipes/link-from-text.pipe.ts" timestamp="1487955829148" />
       <file name="/mouse-scroll.directive.ts" timestamp="1487960117736" />
@@ -47,7 +52,7 @@
         <mark key="]" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487965036531">
+      <file name="/Dummy.txt" timestamp="1487970295950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -58,6 +63,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.ts" timestamp="1487970270820">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/shared.module.ts" timestamp="1487964630209" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart/backlog-chart.component.ts" timestamp="1487948708357">
@@ -74,11 +85,12 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487964357559">
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/dragula/scroll.service.ts" timestamp="1487968649912" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487969489066">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="13" column="91" />
-        <mark key="]" line="13" column="91" />
-        <mark key="." line="13" column="91" />
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -156,7 +168,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsICYmIHRhcmdldCAmJiArdGFyZ2V0LmdldEF0dHJpYnV0ZSgnY29sdW1uJykgPiAwICYmICt0YXJnZXQuZ2V0QXR0cmlidXRlKCdzd2ltbGFuZScpID4gMDs=</text>
+        <text>$ | async | isDataEquals: 'swimlane' : swimlane.id;&quot;</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -175,16 +187,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsICYmIHRhcmdldCAmJiArdGFyZ2V0LmdldEF0dHJpYnV0ZSgnY29sdW1uJykgPiAwICYmICt0YXJnZXQuZ2V0QXR0cmlidXRlKCdzd2ltbGFuZScpID4gMDs=</text>
+        <text>$ | async | isDataEquals: 'swimlane' : swimlane.id;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2aWV3UHJvdmlkZXJzOiBbIEJvYXJkRHJhZ3VsYVNlcnZpY2UsIFNjcm9sbFNlcnZpY2VdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGxldCBuZXdTdWJDb2x1bUlkID0gdGFyZ2V0Lmhhc0F0dHJpYnV0ZSgnc3ViY29sdW1uJykKICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -223,25 +235,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnNvbGUubG9nKGFyZ3VtZW50cywgJ2FyZ3MnKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NkLmRldGFjaCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuZGRnVmlld0luaXQoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRhc2tJZDogbnVtYmVyID0gZGQ7Cg==</text>
+        <text encoding="base64">ICB2aWV3UHJvdmlkZXJzOiBbIEJvYXJkRHJhZ3VsYVNlcnZpY2UsIFNjcm9sbFNlcnZpY2VdLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCBuZXdTdWJDb2x1bUlkID0gdGFyZ2V0Lmhhc0F0dHJpYnV0ZSgnc3ViY29sdW1uJykKICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnNvbGUubG9nKGFyZ3VtZW50cywgJ2FyZ3MnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5ld1N1YkNvbHVtSWQgPSB0YXJnZXQuaGFzQXR0cmlidXRlKCdzdWJjb2x1bW4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRhc2tJZDogbnVtYmVyID0gZGQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
