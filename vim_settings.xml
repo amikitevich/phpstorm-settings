@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1487925054331">
+      <file name="/Dummy.txt" timestamp="1487941466049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/assets/css/app.style.css" timestamp="1487842571370">
@@ -11,12 +11,6 @@
         <mark key="]" line="13" column="1" />
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/package.json" timestamp="1487862706190">
-        <mark key="'" line="61" column="23" />
-        <mark key="]" line="61" column="23" />
-        <mark key="^" line="61" column="23" />
-        <mark key="." line="61" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart-page.component.scss" timestamp="1487770963348">
         <mark key="[" line="121" column="6" />
@@ -35,12 +29,12 @@
         <mark key="]" line="94" column="29" />
         <mark key="." line="94" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487937439468">
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487941754026">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="79" column="90" />
-        <mark key="]" line="79" column="91" />
-        <mark key="." line="79" column="91" />
-        <mark key="^" line="79" column="90" />
+        <mark key="[" line="79" column="84" />
+        <mark key="]" line="86" column="27" />
+        <mark key="." line="86" column="27" />
+        <mark key="^" line="86" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487862699270">
         <mark key="'" line="27" column="77" />
@@ -109,7 +103,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmRvKGV2ID0+IGNvbnNvbGUubG9nKGV2LCAnRXZlbnQnKSkK</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJykuZmlsdGVyKGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZCk7Cg==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -131,10 +125,10 @@
         <text encoding="base64">ZG8oXyA9PiBjb25zb2xlLmxvZyhfLCAnUEFJUicpKS4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmRvKGV2ID0+IGNvbnNvbGUubG9nKGV2LCAnRXZlbnQnKSkK</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJykuZmlsdGVyKGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJyk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJykuZmlsdGVyKGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -173,25 +167,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJykuZmlsdGVyKGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBPYnNlcnZhYmxlLmZyb21FdmVudCh3aW5kb3csICdibHVyJykuc3Vic2NyaWJlKAogICAgICBibHVyID0+IGNvbnNvbGUubG9nKGJsdXIsICdibHVyZXZlbnQnKQogICAgKTsKCiAgICBPYnNlcnZhYmxlLmZyb21FdmVudChkb2N1bWVudCwgJ2JsdXInKS5zdWJzY3JpYmUoCiAgICAgIGJsdXIgPT4gY29uc29sZS5sb2coYmx1ciwgJ2JsdXJldmVudCcpCiAgICApOwogICAgdGhpcy5nZXRJbkFjdGl2ZVN0YXRlKCkuc3Vic2NyaWJlKAogICAgICBhYyA9PiBjb25zb2xlLmxvZyhhYywgJ2luYWN0aXZlc3RhdGUnKQogICAgKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLmRvKGV2ID0+IGNvbnNvbGUubG9nKGV2LCAnRXZlbnQnKSkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBzdG9wJC5zdWJzY3JpYmUoCiAgICAgIHN0b3AgPT4gY29uc29sZS5sb2coJ3N0b3AgZXZlbnQnKQogICAgKQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdldERyYWdTY3JvbGxPbkVsZW1lbnQoZWxlbWVudCkgewo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBPYnNlcnZhYmxlLmZyb21FdmVudCh3aW5kb3csICdibHVyJykuc3Vic2NyaWJlKAogICAgICBibHVyID0+IGNvbnNvbGUubG9nKGJsdXIsICdibHVyZXZlbnQnKQogICAgKTsKCiAgICBPYnNlcnZhYmxlLmZyb21FdmVudChkb2N1bWVudCwgJ2JsdXInKS5zdWJzY3JpYmUoCiAgICAgIGJsdXIgPT4gY29uc29sZS5sb2coYmx1ciwgJ2JsdXJldmVudCcpCiAgICApOwogICAgdGhpcy5nZXRJbkFjdGl2ZVN0YXRlKCkuc3Vic2NyaWJlKAogICAgICBhYyA9PiBjb25zb2xlLmxvZyhhYywgJ2luYWN0aXZlc3RhdGUnKQogICAgKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBzdG9wJC5zdWJzY3JpYmUoCiAgICAgIHN0b3AgPT4gY29uc29sZS5sb2coJ3N0b3AgZXZlbnQnKQogICAgKQ==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -204,10 +198,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>C</entry>
-        <entry>i</entry>
-        <entry>e</entry>
-        <entry>term</entry>
         <entry>dg</entry>
         <entry>number</entry>
         <entry>set cb</entry>
@@ -224,6 +214,10 @@
         <entry>tutor</entry>
         <entry>quickref</entry>
         <entry>q!</entry>
+        <entry>exec cb</entry>
+        <entry>exec</entry>
+        <entry>cource</entry>
+        <entry>source</entry>
       </history-cmd>
       <history-expr />
       <history-input />
