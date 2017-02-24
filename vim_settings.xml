@@ -35,12 +35,12 @@
         <mark key="]" line="94" column="29" />
         <mark key="." line="94" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487934629395">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="80" column="6" />
-        <mark key="]" line="73" column="41" />
-        <mark key="^" line="73" column="41" />
-        <mark key="." line="73" column="41" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487937279257">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="79" column="90" />
+        <mark key="]" line="79" column="91" />
+        <mark key="." line="79" column="91" />
+        <mark key="^" line="79" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487862699270">
         <mark key="'" line="27" column="77" />
@@ -81,12 +81,35 @@
       <jump line="67" column="5" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
       <jump line="80" column="5" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="90" column="9" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="84" column="4" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="74" column="4" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="66" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="3" column="56" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="6" column="26" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="5" column="11" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="9" column="11" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="14" column="11" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdldERyYWdTY3JvbGxPbkVsZW1lbnQoZWxlbWVudCkgewo=</text>
+        <text encoding="base64">ICAgICAgLmRvKGV2ID0+IGNvbnNvbGUubG9nKGV2LCAnRXZlbnQnKSkK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -105,13 +128,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">ZG8oXyA9PiBjb25zb2xlLmxvZyhfLCAnUEFJUicpKS4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdldERyYWdTY3JvbGxPbkVsZW1lbnQoZWxlbWVudCkgewo=</text>
+        <text encoding="base64">ICAgICAgLmRvKGV2ID0+IGNvbnNvbGUubG9nKGV2LCAnRXZlbnQnKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
+        <text encoding="base64">ICAgIGxldCBzdGFydCQgPSBPYnNlcnZhYmxlLmZyb21FdmVudChlbGVtZW50LCAnbW91c2Vkb3duJyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -150,25 +173,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBPYnNlcnZhYmxlLmZyb21FdmVudCh3aW5kb3csICdibHVyJykuc3Vic2NyaWJlKAogICAgICBibHVyID0+IGNvbnNvbGUubG9nKGJsdXIsICdibHVyZXZlbnQnKQogICAgKTsKCiAgICBPYnNlcnZhYmxlLmZyb21FdmVudChkb2N1bWVudCwgJ2JsdXInKS5zdWJzY3JpYmUoCiAgICAgIGJsdXIgPT4gY29uc29sZS5sb2coYmx1ciwgJ2JsdXJldmVudCcpCiAgICApOwogICAgdGhpcy5nZXRJbkFjdGl2ZVN0YXRlKCkuc3Vic2NyaWJlKAogICAgICBhYyA9PiBjb25zb2xlLmxvZyhhYywgJ2luYWN0aXZlc3RhdGUnKQogICAgKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBtb3VzZVVwJCA9IE9ic2VydmFibGUuZnJvbUV2ZW50KGRvY3VtZW50LCAnbW91c2V1cCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBtb3VzZVVwJCA9IE9ic2VydmFibGUuZnJvbUV2ZW50KGRvY3VtZW50LCAnbW91c2V1cCcpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBzdG9wJC5zdWJzY3JpYmUoCiAgICAgIHN0b3AgPT4gY29uc29sZS5sb2coJ3N0b3AgZXZlbnQnKQogICAgKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuYWxsb3dNb3VzZVNjcm9sbCQubmV4dCghaXNEcmFnZ2luZyk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGdldERyYWdTY3JvbGxPbkVsZW1lbnQoZWxlbWVudCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
