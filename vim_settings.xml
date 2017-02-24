@@ -10,27 +10,8 @@
         <mark key="." line="106" column="7" />
         <mark key="^" line="106" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" timestamp="1487774385024">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/board-details/board-detail-loader.ts" timestamp="1487953549271">
         <mark key="[" line="27" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-view-on-board/task-view-on-board.component.ts" timestamp="1487951444645">
-        <mark key="a" line="26" column="52" />
-        <mark key="'" line="39" column="30" />
-        <mark key="[" line="33" column="33" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="31" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-preview/task-preview.component.html" timestamp="1487950990623">
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487958899957" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/pipes/link-from-text.pipe.ts" timestamp="1487955829148" />
@@ -41,6 +22,12 @@
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart/task-circle/task-circle.component.ts" timestamp="1487955617376">
         <mark key="[" line="68" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.ts" timestamp="1487964757649">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="/link-from-text.pipe.ts" timestamp="1487955786209" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/index.ts" timestamp="1487959550948">
         <mark key="[" line="28" column="0" />
@@ -49,12 +36,18 @@
         <mark key="." line="25" column="0" />
         <mark key="o" line="20" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-preview/task-preview.component.ts" timestamp="1487961688994">
+        <mark key="[" line="49" column="84" />
+        <mark key="]" line="51" column="8" />
+        <mark key="^" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.html" timestamp="1487955494381">
         <mark key="[" line="10" column="92" />
         <mark key="]" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487960903138">
+      <file name="/Dummy.txt" timestamp="1487965036531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,6 +59,13 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/shared.module.ts" timestamp="1487964630209" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart/backlog-chart.component.ts" timestamp="1487948708357">
+        <mark key="[" line="170" column="24" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart.service.ts" timestamp="1487955507071" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487960130725">
         <mark key="'" line="41" column="0" />
@@ -74,11 +74,11 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487960853069">
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487964357559">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="13" column="92" />
-        <mark key="]" line="13" column="92" />
-        <mark key="." line="13" column="92" />
+        <mark key="[" line="13" column="91" />
+        <mark key="]" line="13" column="91" />
+        <mark key="." line="13" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -156,7 +156,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stage</text>
+        <text encoding="base64">IGVsICYmIHRhcmdldCAmJiArdGFyZ2V0LmdldEF0dHJpYnV0ZSgnY29sdW1uJykgPiAwICYmICt0YXJnZXQuZ2V0QXR0cmlidXRlKCdzd2ltbGFuZScpID4gMDs=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -175,16 +175,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stage</text>
+        <text encoding="base64">IGVsICYmIHRhcmdldCAmJiArdGFyZ2V0LmdldEF0dHJpYnV0ZSgnY29sdW1uJykgPiAwICYmICt0YXJnZXQuZ2V0QXR0cmlidXRlKCdzd2ltbGFuZScpID4gMDs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8dGFzay1wcmV2aWV3ICpuZ0Zvcj0ibGV0IHRhc2sgb2YgdGFza3MkIHwgYXN5bmMgfCBpc0RhdGFFcXVhbHM6ICdzd2ltbGFuZScgOiBzd2ltbGFuZS5pZDsgdHJhY2tCeTogdHJhY2tCeUlkIgo=</text>
+        <text encoding="base64">ICB2aWV3UHJvdmlkZXJzOiBbIEJvYXJkRHJhZ3VsYVNlcnZpY2UsIFNjcm9sbFNlcnZpY2VdLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3dbJ215ZWwnXSA9IGVsOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCBuZXdTdWJDb2x1bUlkID0gdGFyZ2V0Lmhhc0F0dHJpYnV0ZSgnc3ViY29sdW1uJykKICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDs=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -223,25 +223,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbCwgJ2VsZW1lbnQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnNvbGUubG9nKGFyZ3VtZW50cywgJ2FyZ3MnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmRpc3RpbmN0VW50aWxDaGFuZ2VkKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRhc2tJZDogbnVtYmVyID0gZGQ7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb25Cb2FyZCA9PiBjb25zb2xlLmxvZyhvbkJvYXJkLCAnb25Cb2FyZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25Ob0JvYXJkUGFnZSQuc3Vic2NyaWJlKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5ld1N1YkNvbHVtSWQgPSB0YXJnZXQuaGFzQXR0cmlidXRlKCdzdWJjb2x1bW4nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -251,6 +251,8 @@
       <last-search encoding="base64">XDxhc1w+</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxhc1w+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxhc1w+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
