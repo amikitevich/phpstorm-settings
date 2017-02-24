@@ -35,10 +35,11 @@
         <mark key="]" line="94" column="29" />
         <mark key="." line="94" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487925297592">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="8" />
-        <mark key="." line="65" column="8" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487926534563">
+        <mark key="[" line="85" column="55" />
+        <mark key="]" line="85" column="55" />
+        <mark key="^" line="68" column="28" />
+        <mark key="." line="85" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487862699270">
         <mark key="'" line="27" column="77" />
@@ -78,40 +79,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBtb3VzZVVwJCA9IE9ic2VydmFibGUuZnJvbUV2ZW50KGRvY3VtZW50LCAnbW91c2V1cCcpOwo=</text>
+        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mouseUp</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBtb3VzZVVwJCA9IE9ic2VydmFibGUuZnJvbUV2ZW50KGRvY3VtZW50LCAnbW91c2V1cCcpOwo=</text>
+        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuYWxsb3dNb3VzZVNjcm9sbCQubmV4dCghaXNEcmFnZ2luZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgXyA9PiBzdGFydCQuc3dpdGNoTWFwKGV2ID0+IG1vdXNlTW92ZSQudGFrZVVudGlsKC5tZXJnZShzdG9wJCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGxldCBtb3VzZVVwJCA9IE9ic2VydmFibGUuZnJvbUV2ZW50KGRvY3VtZW50LCAnbW91c2V1cCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGxldCBtb3VzZVVwJCA9IE9ic2VydmFibGUuZnJvbUV2ZW50KGRvY3VtZW50LCAnbW91c2V1cCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuYWxsb3dNb3VzZVNjcm9sbCQubmV4dCghaXNEcmFnZ2luZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">CjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIDwvYT4K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPgogICAgICAgIDx0YXNrLWxpc3QtaXRlbSBbc2hvd01vZGVdPSJzaG93TW9kZSQgfCBhc3luYyIgW3Rhc2tdPSJ0YXNrIj48L3Rhc2stbGlzdC1pdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
       <register name="-" type="4">
-        <text>mouseUp</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
