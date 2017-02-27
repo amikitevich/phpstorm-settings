@@ -92,6 +92,12 @@
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/services/app/web-socket/web-socket.service.ts" timestamp="1488193839809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" />
