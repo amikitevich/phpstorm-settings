@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" timestamp="1487956015783">
@@ -11,7 +11,7 @@
         <mark key="^" line="106" column="7" />
       </file>
       <file name="/aсtivity-detail.component.html" timestamp="1488190740602" />
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.html" timestamp="1488211916616">
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.html" timestamp="1488213680185">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="6" />
         <mark key="." line="27" column="6" />
@@ -24,8 +24,8 @@
         <mark key="^" line="41" column="5" />
         <mark key="." line="41" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" timestamp="1488210519769">
-        <mark key="'" line="83" column="0" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" timestamp="1488214886328">
+        <mark key="'" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/dragula/board-dragula.service.ts" timestamp="1487969617024">
         <mark key="[" line="36" column="4" />
@@ -56,7 +56,7 @@
         <mark key="]" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488209752280">
+      <file name="/Dummy.txt" timestamp="1488214071441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,6 +92,7 @@
         <mark key="]" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/functions/selectors.ts" timestamp="1488214235151" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/services/app/socket.service.ts" timestamp="1488209860161">
         <mark key="[" line="81" column="3" />
         <mark key="]" line="81" column="2" />
@@ -179,8 +180,6 @@
       <jump line="39" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-view-on-board/task-view-on-board.component.ts" />
       <jump line="41" column="6" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/effects/quick-filter.effect.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
       <jump line="139" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
       <jump line="138" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
@@ -196,10 +195,16 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="88" column="22" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="82" column="32" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mapTo</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -218,16 +223,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mapTo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvdG9vbHRpcCI6ICJeMi4wLjAtYWxwaGEuOC0yIiwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIGxldCBicmVhZENydW1iU3RyaW5nID0gKGJvYXJkLCBzd2ltbGFuZSwgY29sdW1uLCBzdWJjb2x1bW4pID0+IHsKCgoKICAgICAgfTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSI6ICJeMi4wLjAtYWxwaGEuOC0yIiwK</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvdG9vbHRpcCI6ICJeMi4wLjAtYWxwaGEuOC0yIiwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -266,25 +271,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSI6ICJeMi4wLjAtYWxwaGEuOC0yIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2NkLmRldGFjaCgpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZGRnVmlld0luaXQoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NkLmRldGFjaCgpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBuZGRnVmlld0luaXQoKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICB2aWV3UHJvdmlkZXJzOiBbIEJvYXJkRHJhZ3VsYVNlcnZpY2UsIFNjcm9sbFNlcnZpY2VdLAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGxldCBuZXdTdWJDb2x1bUlkID0gdGFyZ2V0Lmhhc0F0dHJpYnV0ZSgnc3ViY29sdW1uJykKICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnNvbGUubG9nKGFyZ3VtZW50cywgJ2FyZ3MnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist tab</text>
