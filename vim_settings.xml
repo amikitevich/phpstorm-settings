@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1488189841866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/wrapper.ts" timestamp="1487948223590">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" timestamp="1487956015783">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="113" column="5" />
@@ -10,17 +22,40 @@
         <mark key="." line="106" column="7" />
         <mark key="^" line="106" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart/backlog-chart.component.ts" timestamp="1487948708357">
+        <mark key="[" line="170" column="24" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/board-details/board-detail-loader.ts" timestamp="1487953549271">
         <mark key="[" line="27" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/effects/quick-filter.effect.ts" timestamp="1488189333627">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/dragula/board-dragula.service.ts" timestamp="1487969617024">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="18" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" timestamp="1487958899957" />
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/pipes/link-from-text.pipe.ts" timestamp="1487955829148" />
-      <file name="/mouse-scroll.directive.ts" timestamp="1487960117736" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487960130725">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487969489066">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
       <file name="/JavaScript Console" timestamp="1487774757601">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,7 +68,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/link-from-text.pipe.ts" timestamp="1487955786209" />
       <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/index.ts" timestamp="1487959550948">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="25" column="0" />
@@ -51,46 +85,6 @@
         <mark key="[" line="10" column="92" />
         <mark key="]" line="10" column="92" />
         <mark key="." line="10" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1487970295950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/wrapper.ts" timestamp="1487948223590">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.ts" timestamp="1487970270820">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="38" column="28" />
-        <mark key="." line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/shared.module.ts" timestamp="1487964630209" />
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart/backlog-chart.component.ts" timestamp="1487948708357">
-        <mark key="[" line="170" column="24" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/backlog-chart.service.ts" timestamp="1487955507071" />
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487960130725">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/dragula/scroll.service.ts" timestamp="1487968649912" />
-      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487969489066">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -165,10 +159,11 @@
       <jump line="122" column="87" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/click-out.directive.ts" />
       <jump line="0" column="8" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/wrapper.ts" />
       <jump line="39" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-view-on-board/task-view-on-board.component.ts" />
+      <jump line="41" column="6" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/effects/quick-filter.effect.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$ | async | isDataEquals: 'swimlane' : swimlane.id;&quot;</text>
+        <text>stage</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -187,7 +182,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$ | async | isDataEquals: 'swimlane' : swimlane.id;&quot;</text>
+        <text>stage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
