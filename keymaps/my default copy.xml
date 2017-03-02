@@ -1,13 +1,18 @@
 <keymap version="1" name="my default copy" parent="Mac OS X 10.5+">
+  <action id="EditorCutLineEnd" />
   <action id="EditorLookupUp" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceVariable" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ShowContent" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

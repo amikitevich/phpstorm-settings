@@ -1,0 +1,396 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" timestamp="1487956015783">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="113" column="5" />
+        <mark key="]" line="106" column="7" />
+        <mark key="." line="106" column="7" />
+        <mark key="^" line="106" column="7" />
+      </file>
+      <file name="/aсtivity-detail.component.html" timestamp="1488190740602" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.html" timestamp="1488213680185">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="37" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/effects/quick-filter.effect.ts" timestamp="1488189333627">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="5" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" timestamp="1488214886328">
+        <mark key="'" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/dragula/board-dragula.service.ts" timestamp="1487969617024">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.ts" timestamp="1487964757649">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/index.ts" timestamp="1488195529564">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="o" line="20" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-preview/task-preview.component.ts" timestamp="1487961688994">
+        <mark key="[" line="49" column="84" />
+        <mark key="]" line="51" column="8" />
+        <mark key="^" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.html" timestamp="1487955494381">
+        <mark key="[" line="10" column="92" />
+        <mark key="]" line="10" column="92" />
+        <mark key="." line="10" column="92" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1488214071441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/wrapper.ts" timestamp="1487948223590">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/package.json" timestamp="1488192868638">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart/backlog-chart.component.ts" timestamp="1487948708357">
+        <mark key="[" line="170" column="24" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" timestamp="1487960130725">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" timestamp="1487969489066">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/functions/selectors.ts" timestamp="1488214235151" />
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/services/app/socket.service.ts" timestamp="1488209860161">
+        <mark key="[" line="81" column="3" />
+        <mark key="]" line="81" column="2" />
+        <mark key="^" line="81" column="2" />
+        <mark key="." line="81" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/services/app/web-socket/web-socket.service.ts" timestamp="1488193839809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/group-task-dialog/group-task-dialog.component.html" />
+      <jump line="202" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.ts" />
+      <jump line="27" column="77" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.html" />
+      <jump line="61" column="23" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/package.json" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/board-task-list/column-task-list.component.html" />
+      <jump line="197" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/columns/column-list/column-list.component.ts" />
+      <jump line="70" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="67" column="5" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="80" column="5" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="90" column="9" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="84" column="4" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="74" column="4" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="66" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="3" column="56" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="6" column="26" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="5" column="11" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="9" column="11" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="14" column="11" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/mouse-scroll.directive.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="100" column="6" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="140" column="2" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="130" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/board/backlog-chart/chart-page/backlog-chart-page.component.ts" />
+      <jump line="122" column="87" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/directives/click-out.directive.ts" />
+      <jump line="0" column="8" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/helpers/wrapper.ts" />
+      <jump line="39" column="30" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/tasks/task-view-on-board/task-view-on-board.component.ts" />
+      <jump line="41" column="6" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/ngrx/effects/quick-filter.effect.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="126" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="88" column="22" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="82" column="32" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/phpstorm-projects/atlaz-web/frontend/src/app/shared/components/inline-edit/task-title-inplace-edit/task-title-inplace-edit.component.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>mapTo</text>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>mapTo</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxhc1w+</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIGxldCBicmVhZENydW1iU3RyaW5nID0gKGJvYXJkLCBzd2ltbGFuZSwgY29sdW1uLCBzdWJjb2x1bW4pID0+IHsKCgoKICAgICAgfTs=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvdG9vbHRpcCI6ICJeMi4wLjAtYWxwaGEuOC0yIiwK</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSI6ICJeMi4wLjAtYWxwaGEuOC0yIiwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX2NkLmRldGFjaCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBuZGRnVmlld0luaXQoKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2aWV3UHJvdmlkZXJzOiBbIEJvYXJkRHJhZ3VsYVNlcnZpY2UsIFNjcm9sbFNlcnZpY2VdLAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCBuZXdTdWJDb2x1bUlkID0gdGFyZ2V0Lmhhc0F0dHJpYnV0ZSgnc3ViY29sdW1uJykKICAgICAgICAgICAgICAgID8gK3RhcmdldC5nZXRBdHRyaWJ1dGUoJ3N1YmNvbHVtbicpIDogMDs=</text>
+      </register>
+      <register name=":" type="4">
+        <text>actionlist tab</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxhc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxhc1w+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxhc1w+</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxhc1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vi</entry>
+        <entry>next</entry>
+        <entry>n</entry>
+        <entry>help</entry>
+        <entry>tutor</entry>
+        <entry>quickref</entry>
+        <entry>q!</entry>
+        <entry>exec cb</entry>
+        <entry>exec</entry>
+        <entry>cource</entry>
+        <entry>source</entry>
+        <entry>gv</entry>
+        <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
+        <entry>actionlist</entry>
+        <entry>gt</entry>
+        <entry>gT</entry>
+        <entry>actionlist next tab</entry>
+        <entry>actionlist tab</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

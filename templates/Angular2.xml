@@ -1,5 +1,5 @@
 <templateSet group="Angular2">
-  <template name="ngcomp" value="import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';&#10;&#10;@Component({&#10;  selector: '$SELECTOR$',&#10;  templateUrl: './$FILENAME$.html',&#10;  styleUrls: ['./$FILENAME$.scss'],&#10;  changeDetection: ChangeDetectionStrategy.OnPush&#10;})   &#10;&#10;export class $COMPONENT_NAME$ implements OnInit {&#10;&#10;  ngOnInit(): any {&#10;  }&#10;&#10;}&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="ngcomp" value="import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';&#10;&#10;@Component({&#10;  selector: '$SELECTOR$',&#10;  templateUrl: './$FILENAME$.html',&#10;  styleUrls: ['./$FILENAME$.scss'],&#10;  changeDetection: ChangeDetectionStrategy.OnPush&#10;})   &#10;&#10;export class $COMPONENT_NAME$ implements OnInit {&#10;&#10;  ngOnInit(): any {&#10;  }&#10;&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="SELECTOR" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="FILENAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="COMPONENT_NAME" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
